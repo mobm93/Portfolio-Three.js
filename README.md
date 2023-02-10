@@ -1,4 +1,7 @@
-# The original idea belongs to: https://bokoko33.me/
+#www.1byteco.com 
+
+
+The original idea belongs to: https://bokoko33.me/
 
 First time only install dependencies with:
 npm i 
